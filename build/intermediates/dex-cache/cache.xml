@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android\app\study\easyPay\wechatpay\build\intermediates\bundles\default\libs\libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2a9c788016ea496c76407f409d8d1cf69f43cb3">
+        <dex dex="D:\Android\app\study\easyPay\app\build\intermediates\pre-dexed\debug\libammsdk_a7aa2344f26c28f2d464193867d59bfe7fa04a5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\app\study\easyPay\alipay\build\intermediates\bundles\default\libs\alipaySdk-20160825.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51a3a51be44b72849f4505e14b6200098ed7d574">
+        <dex dex="D:\Android\app\study\easyPay\app\build\intermediates\pre-dexed\debug\alipaySdk-20160825_273fd9e483af04ec66877b158db82c8d0d9d0977.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\app\study\easyPay\unionpay\build\intermediates\bundles\default\libs\UPPayPluginExPro.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02d9238bf541af17533cf56215b9bc3bf195e95f">
+        <dex dex="D:\Android\app\study\easyPay\app\build\intermediates\pre-dexed\debug\UPPayPluginExPro_c9736337713c32e0b9086374dde6af7833f6e902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\app\study\easyPay\unionpay\build\intermediates\bundles\default\libs\UPPayAssistEx.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="395d820d36f520e959528be1ecc114d06bf74cdb">
+        <dex dex="D:\Android\app\study\easyPay\app\build\intermediates\pre-dexed\debug\UPPayAssistEx_35c4606cf40d2e902bf0dc98f8ed8bf6baec2797.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\app\study\easyPay\easypay\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d692dca6ac718d578518a7b84586e45392fd5529">
+        <dex dex="D:\Android\app\study\easyPay\app\build\intermediates\pre-dexed\debug\classes_58171fc5b7bc2920c85ca5e42a898f95a15bb698.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\app\study\easyPay\alipay\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a98dea2982aeb49cd7c45b36c194e1abfb900b3d">
+        <dex dex="D:\Android\app\study\easyPay\app\build\intermediates\pre-dexed\debug\classes_97cc5f1ac11e7ca46dfe4bf5875665a9b0d7cd6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\app\study\easyPay\unionpay\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c86f675a7e081b255cdca6421abe590bf117360b">
+        <dex dex="D:\Android\app\study\easyPay\app\build\intermediates\pre-dexed\debug\classes_7fff5b039089b11068dda3a1fa791c2078cfd2fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\app\study\easyPay\wechatpay\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c4b53d63299214274cf22d0cf2529dd4a688dd">
+        <dex dex="D:\Android\app\study\easyPay\app\build\intermediates\pre-dexed\debug\classes_23f20a079bb48c8f7cbd30e64f23cf7780e92e75.jar" />
+    </item>
+
+</items>
